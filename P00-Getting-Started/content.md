@@ -7,7 +7,6 @@ How can you make your code smarter? Ideally, we should be able to change what ha
 
 > [action]
 >
-1. Right-click on your desktop to create a new folder. Name it "Make School Projects".
 1. Download the booleans and conditionals playground from [here](https://github.com/MakeSchool-Tutorials/Intro-Conditionals-Swift-Playground/archive/master.zip).
 1. Double-click the downloaded zip file to "extract it".
 1. Inside the newly extracted folder you should see a file named `Conditionals.playground`, drag this into your "Make School Projects" folder.
